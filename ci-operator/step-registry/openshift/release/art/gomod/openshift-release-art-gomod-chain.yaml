@@ -1,0 +1,5 @@
+chain:
+  as: openshift-release-art-gomod
+
+  steps:
+  - ref: openshift-release-art-gomod-verify-version
